@@ -7,6 +7,5 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///C:/Users/Amal/Desktop/microservices/config-server/src/main/resources/config
-
+          search-locations: C:\Users\ASUS\OneDrive\Bureau\spring\ecomerce\configserver\src\main\resources\config
 
